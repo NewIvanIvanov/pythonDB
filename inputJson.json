@@ -1,0 +1,10 @@
+{
+	"table" : "user",
+	"fields" : {
+		"id" : "",
+		"name" : "Robbins",
+		"surname" : "Murrey",
+		"age" : 45
+	},
+	"method" : "insert"
+}
